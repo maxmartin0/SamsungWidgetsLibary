@@ -7,6 +7,18 @@ name = "samsung_widgets"
 version = "0.1.0"
 description = "Samsung-themed widgets for CustomTkinter"
 readme = "README.md"
-requires-python = ">=3.7"
-authors = [{ name = "MaxMartin" }]
+license = {text = "MIT"}
+authors = [
+  {name = "maxmartin0"}
+]
+urls = { 
+  "Homepage" = "https://github.com/maxmartin0/SamsungWidgetsLibrary", 
+  "License" = "https://github.com/maxmartin0/SamsungWidgetsLibrary/blob/main/MIT"
+}
 dependencies = ["customtkinter>=5.0"]
+keywords = ["tkinter", "customtkinter", "widgets", "samsung", "GUI"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
