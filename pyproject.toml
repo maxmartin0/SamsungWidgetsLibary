@@ -13,7 +13,6 @@ authors = [
 ]
 urls = { homepage = "https://github.com/maxmartin0/SamsungWidgetsLibrary" }
 
-}
 dependencies = ["customtkinter>=5.0"]
 keywords = ["tkinter", "customtkinter", "widgets", "samsung", "GUI"]
 classifiers = [
