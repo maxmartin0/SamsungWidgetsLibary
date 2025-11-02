@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "samsung_widgets"
+version = "0.1.0"
+description = "Samsung-themed widgets for CustomTkinter"
+readme = "README.md"
+requires-python = ">=3.7"
+authors = [{ name = "MaxMartin" }]
+dependencies = ["customtkinter>=5.0"]
